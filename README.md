@@ -11,6 +11,7 @@ you have a interesting for this code ?
 i will teach you, how to use this code!
 
 type to terminal this python3 password_generator.py -l 12 -ed -es
+
 -l mean is length, you can selected length 1 to 74
 -ed mean is excludes duplicate character from password
 -es mean is excludes symbols character from password
